@@ -1,2 +1,6 @@
 Om Namah Shivay
+<<<<<<< HEAD
 third  line added from local
+=======
+2nd line added from remote
+>>>>>>> 8487d8887e3ac9838cbd2b398c6f200239b54957
